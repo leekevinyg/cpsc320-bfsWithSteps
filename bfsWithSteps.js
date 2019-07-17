@@ -1,4 +1,3 @@
-console.log('hi');
 const G = {
     'A': {
         name: 'A',
